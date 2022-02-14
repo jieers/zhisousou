@@ -1,4 +1,4 @@
-# zhisousou
+# 部分效果图展示
 ## 首页
 ![Image text](https://raw.githubusercontent.com/jieers/zhisousou/main/img/home.jpg)
 ## 待办
